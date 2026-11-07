@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown to PDF"
+  short_description: "Formula-ready Markdown to polished PDF documents"
+  default_prompt: "Use $md-to-pdf to export these Markdown notes as polished A4 PDFs."

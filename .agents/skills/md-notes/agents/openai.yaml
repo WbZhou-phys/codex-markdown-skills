@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown Course Notes"
+  short_description: "Build rigorous, formula-safe Obsidian course notes."
+  default_prompt: "Use $md-notes to turn these sources into rigorous Obsidian course notes."

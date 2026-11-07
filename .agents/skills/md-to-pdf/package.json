@@ -1,0 +1,13 @@
+{
+  "name": "codex-md-to-pdf-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Codex skill for converting Markdown notes to polished, formula-safe PDFs",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "playwright": "^1.65.0"
+  }
+}
